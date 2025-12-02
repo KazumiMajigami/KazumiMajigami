@@ -1,4 +1,4 @@
-# 🌸✨ Nama Project Kamu ✨🌸
+# 🌸✨ Kazumi Majigami ✨🌸
 
 <div align="center">
 
