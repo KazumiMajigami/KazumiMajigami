@@ -31,9 +31,9 @@
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Projecter - [@zdcix](https://www.instagram.com/zdcix?igsh=aDE2Y3ZoNDY3ZHh6) - kazumix1515@gmail.com
 
-Project Link: [https://github.com/username/repo](https://github.com/username/repo)
+Project Link:
 
 ---
 
@@ -41,6 +41,6 @@ Project Link: [https://github.com/username/repo](https://github.com/username/rep
 
 **⭐ Kalau project ini membantu, jangan lupa kasih star ya! ⭐**
 
-Made with 💖 by [Your Name]
+Made with 💖 by [Hugo Gario]
 
 </div>
